@@ -55,6 +55,20 @@
 | Chapter 26: Checkpoint      | 1時間      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter26_todo_ja.ipynb) |
 | Chapter 27: Pretraining        | 0.5時間 (+ モデル学習 **20時間** )      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter27_todo_ja.ipynb) |
 | Chapter 28: Instruction Tuning        | 0.5時間 (+ モデル学習 0.5時間 )      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter28_todo_ja.ipynb) |
+| Chapter 29: Magpie (Prompt mask)        | 1.5時間 (+ モデル学習 2時間 )      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/todo/Everyones_nanoGPT_colab_Chapter29_todo_ja.ipynb) |
+
+2026/6/5 Vision LLM, ベータ版公開！
+
+解説および問題がありません。また、主要ベンチマークでの性能評価もまだです。
+
+先取り学習用にお使いください。随時更新予定ですので、更新後に取り組むのをお勧めします。
+
+| チャプター  | 推定所要時間 | ノートブック  |
+|---|---|---|
+| Chapter 30: Vision Pretraining (ベータ版)        |  モデル学習 3時間     | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter30_answer_ja.ipynb) |
+| Chapter 31: Vision Instruction Tuning (ベータ版)       | モデル学習 2時間      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter31_answer_ja.ipynb) |
+
+![EveryonesVLM_demo](assets/EveryonesVLM_demo.png)
 
 ---
 
@@ -119,21 +133,12 @@ Select Kernel > Colab > New Colab Server > CPU(Chapter13まで) or GPU(Chapter14
 | Chapter 26: Checkpoint        | 1時間     | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter26_answer_ja.ipynb) |
 | Chapter 27: Pretraining        | 0.5時間 (+ モデル学習 **20時間** )      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter27_answer_ja.ipynb) |
 | Chapter 28: Instruction Tuning        | 0.5時間 (+ モデル学習 1時間 )      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter28_answer_ja.ipynb) |
-
-
-**清書前追加**
-
-| チャプター                                 | 推定所要時間                   | ノートブック                                                                                                                                                                                                                           |
-| ------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chapter 25: RoPE        |                      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/RoPE_Everyones_nanoGPT_colab_Chapter25_answer_ja.ipynb) |
-| Chapter 26: Pretraining        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/Pretraining_Everyones_nanoGPT_colab_Chapter26_answer_ja.ipynb) |
-| Chapter 27: Instruction Tuning        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/Instruction_Tuning_Everyones_nanoGPT_colab_Chapter27_answer_ja.ipynb) |
-| Chapter 28: Vision Pretraining        |       | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/multimodal_Everyones_nanoGPT_colab_Chapter28_answer_ja.ipynb) |
+| Chapter 29: Magpie (Prompt mask)        | 1.5時間 (+ モデル学習 2時間 )      | [![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/ja/notebooks/answer/Everyones_nanoGPT_colab_Chapter29_answer_ja.ipynb) |
 
 
 ## 出典
 
-このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。  
+このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。Instruction Tuningについては Sebastian Raschka さんの著書([Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch))を参考にしています。Vision LLMについては、[LLaVA](https://github.com/haotian-liu/llava)を参考にしています。
 この場を借りて、心から感謝します。
 
 ## 注意
@@ -145,4 +150,3 @@ Select Kernel > Colab > New Colab Server > CPU(Chapter13まで) or GPU(Chapter14
 ![EveryonesLLM Goal](assets/EveryonesLLM_goal.png)  
 ![EveryonesLLM Idea](assets/EveryonesLLM_idea.png)  
 ![EveryonesLLM Prerequites](assets/EveryonesLLM_prerequites.png)  
-
