@@ -140,7 +140,7 @@ Select Kernel > Colab > New Colab Server > CPU(Chapter13まで) or GPU(Chapter14
 
 ## 出典
 
-このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。Instruction Tuningについては Sebastian Raschka さんの著書([Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch))を参考にしています。Vision LLMについては、[LLaVA](https://github.com/haotian-liu/llava)を参考にしています。
+このチュートリアルは[Andrej KarpathyさんのnanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)と[jingyaogongさんのMinimind](https://github.com/jingyaogong/minimind.git)をベースにしています。Instruction Tuningについては Sebastian Raschka さんの著書[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)を参考にしています。Vision LLMについては、[LLaVA](https://github.com/haotian-liu/llava)を参考にしています。
 この場を借りて、心から感謝します。
 
 ## 注意
