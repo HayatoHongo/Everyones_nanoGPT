@@ -4,7 +4,7 @@
 
 ![EveryonesLLM_demo.gif](assets/EveryonesLLM_demo.gif)
 
-# [Click-> AI YOU build in Chapter28😘](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_SFT)
+# [Click-> AI YOU build in Chapter29😘](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_SFT)
 
 ---
 
@@ -47,6 +47,24 @@
 | Chapter 26: Checkpoint      | 1 hour      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter26_todo_en.ipynb) |
 | Chapter 27: Pretraining        | 0.5 hour (+ **20 hours** model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter27_todo_en.ipynb) |
 | Chapter 28: Instruction Tuning        | 0.5 hour (+ 0.5 hour model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter28_todo_en.ipynb) |
+| Chapter 29: Magpie (Prompt mask)        | 1.5 hours (+ 2 hours model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/todo/Everyones_nanoGPT_colab_Chapter29_todo_en.ipynb) |
+
+2026/6/5 Vision LLM beta is now available!
+
+Explanations and exercises are not available yet. Evaluation on major benchmarks is also not available yet.
+
+Please use it for early preview learning. We plan to update it from time to time, so we recommend working on it after future updates.
+
+| Chapter  | Estimated time | Notebook  |
+|---|---|---|
+| Chapter 30: Vision Pretraining (Beta)        | 3 hours model training     | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/answer/Everyones_nanoGPT_colab_Chapter30_answer_en.ipynb) |
+| Chapter 31: Vision Instruction Tuning (Beta)       | 2 hours model training      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/answer/Everyones_nanoGPT_colab_Chapter31_answer_en.ipynb) |
+
+![EveryonesVLM_demo](assets/EveryonesVLM_demo.png)
+
+# [Link to Web App (Vision LLM)](https://huggingface.co/spaces/HayatoHongoEveryonesAI/EveryonesGPT_Vision_Instruct_noRoPE)
+
+---
 
 ---
 
@@ -104,6 +122,13 @@ Just use Google Colab extension for your VS code, then you can use Colab CPU and
 | Chapter 26: Checkpoint        | 1 hour     | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/answer/Everyones_nanoGPT_colab_Chapter26_answer_en.ipynb) |
 | Chapter 27: Pretraining        | 0.5 hour (+ **20 hours** model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/answer/Everyones_nanoGPT_colab_Chapter27_answer_en.ipynb) |
 | Chapter 28: Instruction Tuning        | 0.5 hour (+ 1 hour model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/answer/Everyones_nanoGPT_colab_Chapter28_answer_en.ipynb) |
+| Chapter 29: Magpie (Prompt mask)        | 1.5 hours (+ 2 hours model training)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HayatoHongo/EveryonesLLM/blob/main/notebooks/answer/Everyones_nanoGPT_colab_Chapter29_answer_en.ipynb) |
+
+
+## Sources
+
+This tutorial is based on [Andrej Karpathy's nanoGPT](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing) and [jingyaogong's Minimind](https://github.com/jingyaogong/minimind.git). For Instruction Tuning, it refers to Sebastian Raschka's book [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch). For Vision LLM, it refers to [LLaVA](https://github.com/haotian-liu/llava).
+I would like to take this opportunity to express my sincere gratitude.
 
 
 ## Notice
