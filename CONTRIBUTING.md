@@ -12,6 +12,9 @@ This repository is translated with GPT-5, so Pull Requests for translation mista
 
 If you find a critical technical mistake, please report it by opening an Issue.
 
+If you want to request a new feature, please open an Issue. 
+RoPE, SDPA, and KV cache are already on our list.
+
 For now, we need to prioritize improving our internal handover and maintenance process before accepting broader external contributions.
 
 Thank you for your understanding.
